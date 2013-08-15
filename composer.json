@@ -1,0 +1,10 @@
+{
+"require": {        
+    "doctrine/orm": "2.3",
+    "doctrine/common": "2.x",
+    "doctrine/dbal": "2.x",
+    "doctrine/migrations": "dev-master",
+    "symfony/console": "2.x",
+    "symfony/yaml": "2.x"
+}
+}
